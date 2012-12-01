@@ -1,0 +1,10 @@
+bin/
+dist/
+target/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
